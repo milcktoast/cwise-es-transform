@@ -1,0 +1,22 @@
+{
+  "name": "@jpweeks/cwise-es-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@jpweeks/static-module": "^1.6.0",
+    "cwise-parser": "^1.0.0",
+    "uglify-js": "^2.6.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpweeks/cwise-es-transform.git"
+  },
+  "keywords": [],
+  "author": "Jay Weeks",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jpweeks/cwise-es-transform/issues"
+  }
+}
